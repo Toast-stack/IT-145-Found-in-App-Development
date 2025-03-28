@@ -55,10 +55,12 @@ The Module 3 project is a simple paint calculator program designed to calculate 
 3. **Output**: The program outputs the wall's area in square feet and the amount of paint needed in gallons. The constant `350.0` is used to represent the coverage area of one gallon of paint.
 
 ### Example Output:
-Enter wall height (feet): 10
-Enter wall width (feet): 20
-Wall area: 200.0 Square Feet
-Paint needed: 0.5714285714285714 gallons
+
+      '''
+    Enter wall height (feet): 10
+    Enter wall width (feet): 20  
+    Wall area: 200.0 Square Feet
+    Paint needed: 0.5714285714285714 gallons
 
 
 ## Module 4: Paint Calculator with Cans
@@ -88,11 +90,13 @@ The Module 4 project is an enhancement to the previous paint calculator program.
    - Number of cans required (rounded to the nearest whole number)
 
 ### Example Output:
-Enter wall height (feet): 10
-Enter wall width (feet): 20
-Wall area: 200.0 Square Feet
-Paint needed: 0.5714285714285714 gallons
-Cans needed: 1 can(s)
+
+    '''
+    Enter wall height (feet): 10
+    Enter wall width (feet): 20
+    Wall area: 200.0 Square Feet
+    Paint needed: 0.5714285714285714 gallons
+    Cans needed: 1 can(s)
 
 ## Getting Started
 To run the Java projects locally:
